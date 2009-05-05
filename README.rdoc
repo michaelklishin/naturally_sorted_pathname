@@ -1,6 +1,11 @@
 = naturally_sorted_pathname
 
-Description goes here.
+Pathname with natural order sorting behavior. Useful for sequences of files that
+come from Ghostscript, ImageMagick, FFMpeg or special hardware and software and have
+file number in it, or just human-readable file listing.
+
+With natural order sorting page_02.png comes before page_11.png, while with
+alphabetic it is the other way around.
 
 == Copyright
 
