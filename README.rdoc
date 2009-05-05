@@ -1,0 +1,7 @@
+= naturally_sorted_pathname
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Michael S. Klishin. See LICENSE for details.
